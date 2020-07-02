@@ -6,24 +6,30 @@
 Shift+ Tab
 ```
 
+## Move Line Down or Up
+
+```
+Alt + ↓ or Alt + ↑
+```
+
 ## Copy Lines Down or Up
 
 ```
-Shift+ Alt + ↓ or Shift+ Alt + ↑
+Shift + Alt + ↓ or Shift + Alt + ↑
 ```
 
 ## Select Current Word (where cursor is placed)
 
 ```
-Ctrl+ D
+Ctrl + D
 ```
 
 ## Insert Semicolon 
 
  >  Colonize extension
 
-`Shift+Enter` Insert semicolon at the end of line and continue on the same line
+`Shift + Enter` Insert semicolon at the end of line and continue on the same line
 
-`Alt+Enter` Insert semicolon at the end of line and continue on the new line
+`Alt + Enter` Insert semicolon at the end of line and continue on the new line
 
-`Ctrl+Alt+Enter` Insert semicolon and stay at the same position
+`Ctrl + Alt + Enter` Insert semicolon and stay at the same position
