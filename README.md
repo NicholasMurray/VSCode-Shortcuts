@@ -6,6 +6,12 @@
 Shift+ Tab
 ```
 
+## Switch between Editor and Terminal
+
+```
+Ctrl + `
+```
+
 ## Move Line Down or Up
 
 ```
