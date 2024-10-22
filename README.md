@@ -20,8 +20,19 @@ Alt + ↓ or Alt + ↑
 
 ## Copy Lines Down or Up
 
+### Windows
 ```
 Shift + Alt + ↓ or Shift + Alt + ↑
+```
+
+### Mac
+```
+Shift + Option + ↓ or Shift + Option + ↑
+```
+
+### Linux
+```
+Shift + Alt + PageDown or Shift + Alt + PageUp
 ```
 
 ## Select Current Word (where cursor is placed)
