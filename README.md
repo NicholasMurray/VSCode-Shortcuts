@@ -3,7 +3,7 @@
 ## Switch Tabs
 
 ```
-Shift+ Tab
+Shift + Tab
 ```
 
 ## Switch between Editor and Terminal
