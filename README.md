@@ -8,8 +8,14 @@ Shift+ Tab
 
 ## Switch between Editor and Terminal
 
+### Mac
 ```
 Ctrl + `
+```
+
+### Linux
+```
+Shift + Alt + PageDown or Shift + Alt + PageUp
 ```
 
 ## Move Line Down or Up
