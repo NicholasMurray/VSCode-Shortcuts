@@ -15,7 +15,7 @@ Ctrl + `
 
 ### Linux
 ```
-Shift + Alt + PageDown or Shift + Alt + PageUp
+Ctrl + Y
 ```
 
 ## Move Line Down or Up
