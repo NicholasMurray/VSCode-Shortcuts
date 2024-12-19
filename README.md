@@ -6,6 +6,14 @@
 Ctrl + Tab
 ```
 
+## Access quick fix context menu
+
+### Linux
+
+```
+Ctrl + .
+```
+
 ## Switch between Editor and Terminal
 
 ### Mac
